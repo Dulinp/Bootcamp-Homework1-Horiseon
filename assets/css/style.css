@@ -73,6 +73,7 @@ main {
     margin-left: 20px;
 }
 /* Grouped selectors for main section */
+/* Centered text */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
