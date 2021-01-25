@@ -116,18 +116,18 @@ aside {
 }
 /* Grouped selectors for aside benefits bar group selectors text */
 /* Centered the text */
-.benefit-lead, section.benefit-brand, section.benefit-cost {
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
     text-align: center;
 }
 /* Grouped selecetors for aside benefits bar h3 group selectors */
-.benefit-lead h3, section.benefit-brand h3, section.benefit-cost h3 {
+.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 /* Grouped selectors for aside benefits bar images */
-.benefit-lead img, section.benefit-brand img, section.benefit-cost img {
+.benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
